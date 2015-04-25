@@ -12,3 +12,7 @@ require('string-to-binary')("hello world");
 ```shell
 npm i string-to-binary
 ```
+
+### Extra
+
+This library is useful in tandem with [binary-to-string](https://github.com/samccone/binary-to-string)
